@@ -1,9 +1,9 @@
 ## Javier Arangue - Desarrollador Fullstack 👋
 
+## Sobre Mí
 
 ¡Hola, soy Javier! Soy un desarrollador fullstack en constante formación, recibido del bootcamp de Henry. Durante este programa, he adquirido una sólida base en diversas tecnologías modernas y metodologías de desarrollo.
 
-Sobre Mí
 Mi formación en el bootcamp de Henry ha sido intensiva y práctica, permitiéndome trabajar en proyectos reales y desarrollar aplicaciones web. Esta experiencia me ha permitido profundizar en el desarrollo frontend y backend, así como en la integración de bases de datos relacionales.
 
 Antes de sumergirme en el desarrollo de software, estudié Licenciatura en Economía. Aunque no concluí mis estudios, completé la cursada y me quedé a un paso de finalizar los exámenes finales. Esta formación me brindó una perspectiva única y analítica que aplico en la resolución de problemas y en el desarrollo de soluciones tecnológicas eficientes.
