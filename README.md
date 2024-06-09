@@ -1,6 +1,6 @@
-## Hi there 👋
+## Javier Arangue - Desarrollador Fullstack 👋
 
-Javier Arangue - Desarrollador Fullstack
+
 ¡Hola, soy Javier! Soy un desarrollador fullstack en constante formación, recibido del bootcamp de Henry. Durante este programa, he adquirido una sólida base en diversas tecnologías modernas y metodologías de desarrollo.
 
 Sobre Mí
@@ -30,7 +30,7 @@ Estoy apasionado por la tecnología y el aprendizaje continuo, siempre buscando 
 ### [![Henry 🚀](https://img.shields.io/badge/Henry-🚀-yellow)](https://github.com/henry)
 - Full Stack Web Developer | 2024
 
-### [![Universidad Nacional de Rio cuarto](https://img.shields.io/badge/-Universidad%20Nacional%20de%20R%C3%ADo%20Cuarto-FF0000?style=flat-square&logoColor=white)](https://www.unrc.edu.ar/)
+### [![Universidad Nacional de Rio cuarto](https://img.shields.io/badge/-Universidad%20Nacional%20de%20R%C3%ADo%20Cuarto-007BFF?style=flat-square&logoColor=white)](https://www.unrc.edu.ar/)
 -  Lic. en economía (en curso)
 
 
