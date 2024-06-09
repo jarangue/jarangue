@@ -1,4 +1,4 @@
-## Javier Arangue - Desarrollador Fullstack 👋
+<h1 align="center">Javier Arangue - Desarrollador Fullstack 👋</h1>
 
 ## Sobre Mí
 
