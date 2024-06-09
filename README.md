@@ -27,11 +27,13 @@ Estoy apasionado por la tecnología y el aprendizaje continuo, siempre buscando 
 
 ## Formación Académica 🎓
 
-### [![Universidad Nacional de Rio cuarto](https://img.shields.io/badge/-Universidad%20Nacional%20de%20R%C3%ADo%20Cuarto-FF0000?style=flat-square&logoColor=white)](https://www.unrc.edu.ar/)
-- 10mo Ciclo | Bachiller en Ingeniería de Sistemas e Informática | 2024
-
 ### [![Henry 🚀](https://img.shields.io/badge/Henry-🚀-yellow)](https://github.com/henry)
 - Full Stack Web Developer | 2024
+
+### [![Universidad Nacional de Rio cuarto](https://img.shields.io/badge/-Universidad%20Nacional%20de%20R%C3%ADo%20Cuarto-FF0000?style=flat-square&logoColor=white)](https://www.unrc.edu.ar/)
+-  Lic. en economía (en curso)
+
+
 
 ## Contacto 📱
 
